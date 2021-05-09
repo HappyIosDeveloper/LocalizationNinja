@@ -1,4 +1,4 @@
 # LocalizationNinja
 It's a simple example for localization in Swift
 
-![ Alt text](intro.gif) / ! [](intro. gif)
+![](https://github.com/HappyIosDeveloper/LocalizationNinja/blob/main/into.gif?raw=true)
