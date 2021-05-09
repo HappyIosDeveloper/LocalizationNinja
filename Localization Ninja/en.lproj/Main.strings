@@ -1,0 +1,22 @@
+
+/* Class = "UILabel"; text = "Select the language"; ObjectID = "2kU-2j-2uI"; */
+"2kU-2j-2uI.text" = "Select the language";
+
+/* Class = "UILabel"; text = "This is home screen"; ObjectID = "5Cl-dN-pe9"; */
+"5Cl-dN-pe9.text" = "This is second screen";
+
+/* Class = "UITabBarItem"; title = "Item3"; ObjectID = "N4w-LY-7b1"; */
+"N4w-LY-7b1.title" = "Item3";
+
+/* Class = "UITabBarItem"; title = "Item2"; ObjectID = "iKP-B4-hsw"; */
+"iKP-B4-hsw.title" = "Item2";
+
+/* Class = "UISegmentedControl"; jIi-5D-wZ4.segmentTitles[0] = "English"; ObjectID = "jIi-5D-wZ4"; */
+"jIi-5D-wZ4.segmentTitles[0]" = "English";
+
+/* Class = "UISegmentedControl"; jIi-5D-wZ4.segmentTitles[1] = "Farsi"; ObjectID = "jIi-5D-wZ4"; */
+"jIi-5D-wZ4.segmentTitles[1]" = "Farsi";
+
+/* Class = "UITabBarItem"; title = "Item1"; ObjectID = "lXm-j2-yyi"; */
+"lXm-j2-yyi.title" = "Item1";
+

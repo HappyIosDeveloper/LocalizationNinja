@@ -1,0 +1,13 @@
+/* 
+  Localization.strings
+  Localization Ninja
+
+  Created by Ahmadreza on 5/9/21.
+  
+*/
+
+"h_1" = "Hello Hello 100 Hello";
+"h_2 %@" = "The number is: %@";
+"item1" = "item 1";
+"item2" = "item 2";
+"item3" = "item 3";

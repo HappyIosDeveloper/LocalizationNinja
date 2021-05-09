@@ -1,0 +1,13 @@
+/* 
+  Localization.strings
+  Localization Ninja
+
+  Created by Ahmadreza on 5/9/21.
+  
+*/
+
+"h_1" = "سلام سلام صد تا سلام";
+"h_2 %@" = "شماره این است: %@";
+"item1" = "آیتم ۱";
+"item2" = "آیتم ۲";
+"item3" = "آیتم ۳";
