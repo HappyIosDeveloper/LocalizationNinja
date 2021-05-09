@@ -131,8 +131,8 @@
                     </view>
                     <navigationItem key="navigationItem" id="k3m-rb-yKf"/>
                     <connections>
-                        <outlet property="helloLabel" destination="ZHR-qN-yJJ" id="F8T-r9-IXw"/>
-                        <outlet property="numberLabel" destination="v4d-X4-GNx" id="cdr-Bq-jet"/>
+                        <outlet property="dynamicTextlabel" destination="v4d-X4-GNx" id="HHU-JA-20l"/>
+                        <outlet property="staticTextLabel" destination="ZHR-qN-yJJ" id="4Iw-Lz-Y7N"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="tBD-Lx-XbP" sceneMemberID="firstResponder"/>
@@ -207,7 +207,7 @@
         </scene>
     </scenes>
     <resources>
-        <image name="flag" width="800" height="480"/>
+        <image name="flag" width="512" height="292.5"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>
