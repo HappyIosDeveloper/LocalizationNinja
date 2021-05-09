@@ -18,10 +18,10 @@
 		38E012742647FC55006E499B /* Bundle-AppLocale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E012702647FC55006E499B /* Bundle-AppLocale.swift */; };
 		38E012752647FC55006E499B /* UserDefaults-AppLocale.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E012712647FC55006E499B /* UserDefaults-AppLocale.swift */; };
 		38E012782648009A006E499B /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E012772648009A006E499B /* SecondViewController.swift */; };
-		38E0127A264800AB006E499B /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E01279264800AB006E499B /* ThirdViewController.swift */; };
 		38E0128126480310006E499B /* Localization.strings in Resources */ = {isa = PBXBuildFile; fileRef = 38E0128326480310006E499B /* Localization.strings */; };
 		38E0128626480407006E499B /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E0128526480407006E499B /* Extensions.swift */; };
 		38E0128826480638006E499B /* GlobalStuff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E0128726480638006E499B /* GlobalStuff.swift */; };
+		38E0128A264844CF006E499B /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38E01289264844CF006E499B /* ThirdViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -38,7 +38,6 @@
 		38E012702647FC55006E499B /* Bundle-AppLocale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Bundle-AppLocale.swift"; sourceTree = "<group>"; };
 		38E012712647FC55006E499B /* UserDefaults-AppLocale.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UserDefaults-AppLocale.swift"; sourceTree = "<group>"; };
 		38E012772648009A006E499B /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		38E01279264800AB006E499B /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 		38E0127B264801D1006E499B /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Main.strings; sourceTree = "<group>"; };
 		38E0127C264801D1006E499B /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		38E0127E26480245006E499B /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
@@ -46,6 +45,7 @@
 		38E0128426480314006E499B /* fa */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fa; path = fa.lproj/Localization.strings; sourceTree = "<group>"; };
 		38E0128526480407006E499B /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		38E0128726480638006E499B /* GlobalStuff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalStuff.swift; sourceTree = "<group>"; };
+		38E01289264844CF006E499B /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,7 +82,7 @@
 				38E0126B2647FC06006E499B /* Localization Helpers */,
 				38E0125B2647F9E1006E499B /* ViewController.swift */,
 				38E012772648009A006E499B /* SecondViewController.swift */,
-				38E01279264800AB006E499B /* ThirdViewController.swift */,
+				38E01289264844CF006E499B /* ThirdViewController.swift */,
 				38E012572647F9E1006E499B /* AppDelegate.swift */,
 				38E012592647F9E1006E499B /* SceneDelegate.swift */,
 				38E0125D2647F9E1006E499B /* Main.storyboard */,
@@ -189,12 +189,12 @@
 				38E0125C2647F9E1006E499B /* ViewController.swift in Sources */,
 				38E0128826480638006E499B /* GlobalStuff.swift in Sources */,
 				38E012582647F9E1006E499B /* AppDelegate.swift in Sources */,
-				38E0127A264800AB006E499B /* ThirdViewController.swift in Sources */,
 				38E012782648009A006E499B /* SecondViewController.swift in Sources */,
 				38E012722647FC55006E499B /* DispatchQueue-Extensions.swift in Sources */,
 				38E012752647FC55006E499B /* UserDefaults-AppLocale.swift in Sources */,
 				38E0125A2647F9E1006E499B /* SceneDelegate.swift in Sources */,
 				38E012742647FC55006E499B /* Bundle-AppLocale.swift in Sources */,
+				38E0128A264844CF006E499B /* ThirdViewController.swift in Sources */,
 				38E0128626480407006E499B /* Extensions.swift in Sources */,
 				38E012732647FC55006E499B /* Locale-App.swift in Sources */,
 			);
